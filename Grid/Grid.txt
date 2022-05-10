@@ -46,4 +46,7 @@ Vai trò:
 }
 
 
+Đối tượng Column
 
+Vai trò:
+-Chứa các thành phần trên website
